@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning Java, HTML/CSS and Javascript.
 <br>
 - 👯 I’m looking to collaborate on any kind of project that I would be helpful
-- <br>
+<br>
 - 🤔 I’m looking for help with Javascript.
-- <br>
+<br>
 - ⚡ Fun fact: I love to cook sweet foods
-- <br>
+<br>
+<br>
 <div>
   <a href = "mailto: isabellaszcamposs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabellaszcampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
