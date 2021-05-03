@@ -1,4 +1,4 @@
-<h1> Hello <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm Isabella Campos! </h1> 
+<h1> Hello, I'm Isabella Campos! </h1> 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 🌱 I’m currently learning Java, HTML/CSS and Javascript.
 <br>
