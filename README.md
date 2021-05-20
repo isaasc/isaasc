@@ -4,8 +4,6 @@
 <br>
 - 👯 I’m looking to collaborate on any kind of project that I would be helpful.
 <br>
-- 🤔 I’m looking for help with Javascript.
-<br>
 - ⚡ Fun fact: I love to cook sweet foods.
 <br>
 <br>
