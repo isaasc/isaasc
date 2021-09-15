@@ -1,10 +1,10 @@
-<h1> Hello, I'm Isabella Campos! </h1> 
+# Hello, I'm Isabella Campos! 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 🌱 I’m currently learning Java, HTML/CSS and Javascript.
+🌱 I’m currently learning Java and Javascript.
 <br>
-- 👯 I’m looking to collaborate on any kind of project that I would be helpful.
+👯 I’m looking to collaborate on any kind of project that I would be helpful.
 <br>
-- ⚡ Fun fact: I love to cook sweet foods.
+⚡ Fun fact: I love to cook sweet foods.
 <br>
 <br>
 <div>
