@@ -1,6 +1,6 @@
 # Hi there, I'm Isabella Campos! 
 
-Web developer learning more about Java, JavaScript and SCSS
+Web developer learning more about Java, JavaScript and SCSS.
 
 <br>
 <div align="center">
