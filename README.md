@@ -1,9 +1,7 @@
 # Hi there, I'm Isabella Campos! 
-<ul>
-  <li> I’m currently learning Java and Javascript.
-  <li> I’m looking to collaborate on any kind of project that I would be helpful.
-  <li> Fun fact: I love to cook sweet foods.
-</ul>
+
+Web Developer that is learning more about Java, JavaScript and SCSS
+
 <br>
 <div align="center">
   <a href="https://github.com/isaasc">
