@@ -27,7 +27,7 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (3/8)
   
   <br>
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasc&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasc&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 <br>
   
