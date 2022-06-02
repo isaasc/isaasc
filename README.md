@@ -1,9 +1,9 @@
-# Olá! Sou a Isabella Campos! 
+# Olá! Sou a Isabella Campos! 🌟
 Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (3/8)
 
 <br>
 
-## O que você encontrará no meu Github 🗂️
+## O que você encontrará no meu Github 
 👩‍💻 Projetos de frontend
 
 🤖 Projetos de backend
@@ -14,7 +14,7 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (3/8)
 
 <br>
 
-## Tecnologias mais utilizadas/estudadas no momento 🌟
+## Tecnologias mais utilizadas/estudadas no momento 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
