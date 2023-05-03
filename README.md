@@ -37,3 +37,7 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (5/8)
   <a href="https://www.linkedin.com/in/isabellaszcampos/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/techgirl.isa" target="_blank"><img height="30" width="140" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+  ## Total de visitas no meu perfil:
+
+<img src="https://profile-counter.glitch.me/isaasc/count.svg" />
