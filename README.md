@@ -1,5 +1,12 @@
 # Olá! Sou a Isabella Campos! 🌟
 Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (5/8)
+<br>
+<br>
+<div align="center">
+    <a href = "mailto: isabellaszcamposs@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabellaszcampos/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/techgirl.isa" target="_blank"><img height="30" width="140" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <br>
 
@@ -15,6 +22,7 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (5/8)
 <br>
 
 ## Tecnologias mais utilizadas/estudadas no momento 
+<br>
 <div align="center">
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,16 +39,11 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (5/8)
   
   <br>
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasc&layout=compact&langs_count=7&theme=apprentice"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasc&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 <br>
   
-## Redes Sociais
-<div align="center">
-    <a href = "mailto: isabellaszcamposs@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabellaszcampos/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/techgirl.isa" target="_blank"><img height="30" width="140" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
 
   ## Total de visitas no meu perfil:
 
