@@ -36,6 +36,9 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (5/8)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
   <br>
 
@@ -43,8 +46,5 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (5/8)
 </div>
 <br>
   
-
-
-  ## Total de visitas no meu perfil:
-
+## Total de visitas no meu perfil:
 <img src="https://profile-counter.glitch.me/isaasc/count.svg" />
