@@ -1,5 +1,5 @@
 # Olá! Sou a Isabella Campos! 🌟
-Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (6/8)
+Desenvolvedora Front-end e estudante de Sistemas de Informação na FIAP (7/8)
 <br>
 <br>
 <div align="center">
@@ -30,7 +30,7 @@ Desenvolvedora Web e estudante de Sistemas de Informação na FIAP (6/8)
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SAAS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=scss&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=Java&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
