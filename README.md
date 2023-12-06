@@ -1,5 +1,5 @@
 # Olá! Sou a Isabella Campos! 🌟
-Desenvolvedora Front-end e estudante de Sistemas de Informação na FIAP (7/8)
+Desenvolvedora Front-end há quase 3 anos e estudante de Sistemas de Informação na FIAP (7/8)
 <br>
 <br>
 <div align="center">
@@ -24,21 +24,22 @@ Desenvolvedora Front-end e estudante de Sistemas de Informação na FIAP (7/8)
 ## Tecnologias mais utilizadas/estudadas no momento 
 <br>
 <div align="center">
-  
+    
+  ![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=scss&logoColor=white)
+  ![SASS/SCSS](https://img.shields.io/badge/SCSS/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=Java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js)
+  ![Java](https://img.shields.io/badge/JAVA-D14836?style=for-the-badge&logo=java)
+  ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
   <br>
 
