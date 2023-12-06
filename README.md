@@ -3,9 +3,8 @@ Desenvolvedora Front-end há quase 3 anos e estudante de Sistemas de Informaçã
 <br>
 <br>
 <div align="center">
-    <a href = "mailto: isabellaszcamposs@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabellaszcampos/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/techgirl.isa" target="_blank"><img height="30" width="140" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: isabellaszcamposs@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/isabellaszcampos/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
