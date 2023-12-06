@@ -11,13 +11,13 @@ Desenvolvedora Front-end há quase 3 anos e estudante de Sistemas de Informaçã
 <br>
 
 ## O que você encontrará no meu Github 
-👩‍💻 Projetos de frontend
+👩‍💻 Projetos de frontend;
 
-🤖 Projetos de backend
+🤖 Projetos de backend;
 
-📑️ Meus trabalhos da faculdade
+📑️ Meus trabalhos da faculdade;
 
-🖥️ Alguns códigos aleatórios
+🖥️ Alguns códigos aleatórios.
 
 <br>
 
@@ -47,5 +47,5 @@ Desenvolvedora Front-end há quase 3 anos e estudante de Sistemas de Informaçã
 </div>
 <br>
   
-## Total de visitas no meu perfil:
+## Total de visitas no meu perfil
 <img src="https://profile-counter.glitch.me/isaasc/count.svg" />
